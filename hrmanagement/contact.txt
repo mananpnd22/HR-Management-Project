@@ -1,0 +1,51 @@
+<div class="col" align="right">
+				  <div class="" align="center" >
+						<div class="left_my marg_right1" >
+						  <div><a href="#"></a></div>
+						</div>
+				        <h2 align="center" class="style12"> Company Details</h2>
+						<h3 align="center" class="style14"> ITGyan Offices</h3>
+						<p align="center" class="style11">&nbsp;</p>
+						<div>
+				          <p>&nbsp;</p>
+				          <p class="style13"><u>India</u></p>
+				          <p><br />
+			              <strong class="color1 style6"><u>Ahmedabad Office</u></strong></p>
+				          <p><br />
+						    <span class="style7">3rd Floor,B Gold Coin Complex <br />
+			                Near Jodhpur Char Rasta<br />
+			                Satellite, Ahmedabad - 380015<br />
+			                Gujarat India<br />
+			                <br />
+			                Phone : 0091 83476 50006<br />
+			                Email : info.itgyan@gmail.com<br />
+			                Website : www.itgyan.co.in<br />
+			                  </span></p>
+				          <p><u><br />
+		                    <span class="style6 color1"><strong>Baroda Office </strong></span></u></p>
+				          <p><br />
+			                <span class="style7">C-512, Manubhai Tower<br />
+			                Opposite M.S. University,<br />
+			                Sayajiganj, Baroda 390005</span></p>
+				          <p>&nbsp;</p>
+				          <p><br />
+				            <br />
+				            <span class="style13"><u>Overseas Office</u></span></p>
+				          <p><br />
+			                <span class="color1 style6"><strong><u>London Office</u></strong></span></p>
+				          <p><br />
+			                <span class="style7">Talbout House,<br />
+			                Rayners Lane,<br />
+			                Middlesex HA2 9TL<br />
+			                London, United Kingdom</span></p>
+				          <p>&nbsp;</p>
+			        </div>
+			        <p align="center" class="color1">&nbsp;</p>
+				  </div>
+					<div class="wrapper pad_bot1">
+						<div class="left_my marg_right1">
+						  <div align="right"><a href="#"></a></div>
+						</div>
+					  <p align="right" class="color1">&nbsp;</p>
+				  </div>
+	</div>
